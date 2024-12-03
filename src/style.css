@@ -204,8 +204,6 @@ body {
    display: block;
    height: auto;
    overflow: visible;
-   -webkit-line-clamp: none;
-   -webkit-box-orient: unset;
 }
 
 .reveal {
